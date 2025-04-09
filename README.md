@@ -23,8 +23,8 @@ A versatile Discord bot featuring translation capabilities, daily quotes, role m
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AOE-Bot.git
-cd AOE-Bot
+git clone hhttps://github.com/1ordo/AOE-Discord-bot
+cd AOE-Discord-bot
 ```
 
 2. Install required packages:
