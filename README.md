@@ -1,6 +1,6 @@
 # AOE Discord Bot
 
-A versatile Discord bot featuring translation capabilities, daily quotes, role management, and automated moderation.
+A versatile Discord bot featuring translation capabilities, daily quotes, role management, and automated moderation for one server! (on going)
 
 ## Features
 
