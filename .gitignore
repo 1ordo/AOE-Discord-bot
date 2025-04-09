@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Credentials and Secrets
+resources/credentials.json
+credentials.json
+*_credentials.json
+*_secret*.json
+token.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Project specific
+welcome_images/
+used_welcoming.json
+used_quotes.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
