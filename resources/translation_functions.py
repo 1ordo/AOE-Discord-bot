@@ -429,7 +429,6 @@ async def send_to_threads_with_webhooks(url, username, avatar_url, content ,imag
 
 
 
-
 async def send_to_threads_with_webhooks_with_multiple_files(url, username, avatar_url, content, files, thread_id):
     try:
         webhook = DiscordWebhook(url=url, username=username, avatar_url=avatar_url, thread_id=thread_id)
